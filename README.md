@@ -1,12 +1,12 @@
 # wiki-text-nlp-classification
 This repository contains a text classification project focused on Wikipedia articles. Using Natural Language Processing (NLP) techniques, the project classifies articles into distinct categories, emphasizing geographical and non-geographical content. The classification is powered by a Naive Bayes model trained on a diverse set of Wikipedia articles. Explore, contribute, and enhance the capabilities of this NLP-driven classification system.
-  Key Features:
+Key Features:
 
 Text classification using NLP
 Distinct categories: geographical and non-geographical
 Naive Bayes machine learning model
 Wikipedia article dataset
-    Operational Structure:
+Operational Structure:
 
 Data Collection:
 
@@ -23,7 +23,7 @@ Train a Naive Bayes machine learning model.
 Classification:
 
 Classify new Wikipedia articles into geographical or non-geographical categories.
-    Technology Stack:
+Technology Stack:
 
 Python:
 
