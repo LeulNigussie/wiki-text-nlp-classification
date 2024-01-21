@@ -5,7 +5,7 @@ Key Features:
 Text classification using NLP
 Distinct categories: geographical and non-geographical
 Naive Bayes machine learning model
-Wikipedia article dataset
+Wikipedia article dataset.
 Operational Structure:
 
 Data Collection:
